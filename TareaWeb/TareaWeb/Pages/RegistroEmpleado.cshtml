@@ -1,0 +1,47 @@
+﻿@page
+@model TareaWeb.Pages.RegistroEmpleadoModel
+@{
+}
+<form method="post">
+    <div class="form-group">
+        <label for="nombre">Nombre:</label>
+        <input type="text" class="form-control" id="nombre" asp-for="Nombre">
+    </div>
+    
+    <div class="form-group">
+        <label for="apellido">Apellido:</label>
+        <input type="text" class="form-control" id="apellido" asp-for="Apellido">
+    </div>
+    
+    <div class="form-group">
+        <label for="puesto">Puesto:</label>
+        <input type="text" class="form-control" id="puesto" asp-for="Puesto">
+    </div>
+
+    <div class="form-group">
+        <label for="fechaDeNacimiento">Fecha de Nacimiento:</label>
+        <input type="date" class="form-control" id="fechaDeNacimiento" asp-for="FechaDeNacimiento">
+    </div>
+
+    <div class="form-group">
+        <label for="direccion">Dirección:</label>
+        <input type="text" class="form-control" id="direccion" asp-for="Direccion">
+    </div>
+
+    <div class="form-group">
+        <label for="correoElectronico">Correo Electrónico:</label>
+        <input type="email" class="form-control" id="correoElectronico" asp-for="CorreoElectronico">
+    </div>
+
+    <div class="form-group">
+        <label for="salario">Salario:</label>
+        <input type="number" class="form-control" id="salario" asp-for="Salario">
+    </div>
+
+    <div class="form-group">
+        <label for="fechaDeContratacion">Fecha de Contratación:</label>
+        <input type="date" class="form-control" id="fechaDeContratacion" asp-for="FechaDeContratacion">
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Registrar</button>
+</form>
