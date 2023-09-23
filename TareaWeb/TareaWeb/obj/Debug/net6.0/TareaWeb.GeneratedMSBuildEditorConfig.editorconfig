@@ -5,52 +5,53 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TareaWeb
 build_property.RootNamespace = TareaWeb
-build_property.ProjectDir = F:\Repositorio\PROYECTO3pARTE2\ProyectoWeb3\TareaWeb\TareaWeb\
+build_property.ProjectDir = D:\Web\ProyectoWeb3\TareaWeb\TareaWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\Repositorio\PROYECTO3pARTE2\ProyectoWeb3\TareaWeb\TareaWeb
+build_property.MSBuildProjectDirectory = D:\Web\ProyectoWeb3\TareaWeb\TareaWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/Repositorio/PROYECTO3pARTE2/ProyectoWeb3/TareaWeb/TareaWeb/Pages/Error.cshtml]
+[D:/Web/ProyectoWeb3/TareaWeb/TareaWeb/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/PROYECTO3pARTE2/ProyectoWeb3/TareaWeb/TareaWeb/Pages/Index.cshtml]
+[D:/Web/ProyectoWeb3/TareaWeb/TareaWeb/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/PROYECTO3pARTE2/ProyectoWeb3/TareaWeb/TareaWeb/Pages/Privacy.cshtml]
+[D:/Web/ProyectoWeb3/TareaWeb/TareaWeb/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/PROYECTO3pARTE2/ProyectoWeb3/TareaWeb/TareaWeb/Pages/RegistroCargo.cshtml]
+[D:/Web/ProyectoWeb3/TareaWeb/TareaWeb/Pages/RegistroCargo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9DYXJnby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/PROYECTO3pARTE2/ProyectoWeb3/TareaWeb/TareaWeb/Pages/RegistroEmpleado.cshtml]
+[D:/Web/ProyectoWeb3/TareaWeb/TareaWeb/Pages/RegistroEmpleado.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9FbXBsZWFkby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/PROYECTO3pARTE2/ProyectoWeb3/TareaWeb/TareaWeb/Pages/RegistroSueldo.cshtml]
+[D:/Web/ProyectoWeb3/TareaWeb/TareaWeb/Pages/RegistroSueldo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9TdWVsZG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/PROYECTO3pARTE2/ProyectoWeb3/TareaWeb/TareaWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Web/ProyectoWeb3/TareaWeb/TareaWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/PROYECTO3pARTE2/ProyectoWeb3/TareaWeb/TareaWeb/Pages/_ViewImports.cshtml]
+[D:/Web/ProyectoWeb3/TareaWeb/TareaWeb/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/PROYECTO3pARTE2/ProyectoWeb3/TareaWeb/TareaWeb/Pages/_ViewStart.cshtml]
+[D:/Web/ProyectoWeb3/TareaWeb/TareaWeb/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/PROYECTO3pARTE2/ProyectoWeb3/TareaWeb/TareaWeb/Pages/Shared/_Layout.cshtml]
+[D:/Web/ProyectoWeb3/TareaWeb/TareaWeb/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-n9a5ye2wl0
