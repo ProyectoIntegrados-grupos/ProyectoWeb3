@@ -1,0 +1,26 @@
+﻿@page
+@model TareaWeb.Pages.RegistroSueldoModel
+@{
+}
+<body>
+    <h1>Registro de Sueldo</h1>
+    <form method="post">
+        <div class="form-group">
+            <label for="años_antiguedad">Años de Antigüedad:</label>
+            <input type="number" class="form-control" id="años_antiguedad" asp-for="AñosAntiguedad">
+        </div>
+
+        <div class="form-group">
+            <label for="descuento_iv">Descuento IV:</label>
+            <input type="number" class="form-control" id="descuento_iv" asp-for="DescuentoIV">
+        </div>
+
+        <div class="form-group">
+            <label for="descuento_seguro">Descuento Seguro:</label>
+            <input type="number" class="form-control" id="descuento_seguro" asp-for="DescuentoSeguro">
+        </div>
+
+
+        <button type="submit" class="btn btn-primary">Registrar Sueldo</button>
+    </form>
+</body>

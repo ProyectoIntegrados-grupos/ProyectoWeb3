@@ -1,0 +1,24 @@
+﻿@page
+@model TareaWeb.Pages.RegistroCargoModel
+@{
+}
+
+    <h1>Registro de Cargo</h1>
+    <form method="post">
+        <div class="form-group">
+            <label for="nombre_de_cargo">Nombre de Cargo:</label>
+            <input type="text" class="form-control" id="nombre_de_cargo" asp-for="Nombre_de_Cargo">
+        </div>
+
+        <div class="form-group">
+            <label for="tipo_de_cargo">Tipo de Cargo:</label>
+            <input type="text" class="form-control" id="tipo_de_cargo" asp-for="Tipo_de_Cargo">
+        </div>
+
+        <div class="form-group">
+            <label for="sueldo_fijo">Sueldo Fijo:</label>
+            <input type="number" class="form-control" id="sueldo_fijo" asp-for="SueldoFijo">
+        </div>
+
+        <button type="submit" class="btn btn-primary">Registrar Cargo</button>
+    </form>
